@@ -1,0 +1,36 @@
+Google
+Find 2 selectors for the search bar:
+/html/body/div[1]/div[2]
+body > div.L3eUgb > div.o3j99.LLD4me.LS8OJ
+
+Find what type of HTML elements are the “Google Search” and “I’m Feeling Lucky” buttons
+<div class="o3j99 LLD4me LS8OJ">
+<style data-iml="1640909393608">
+</style><div class= <style data-iml="1640909393609">
+@media </style><div style="height:calc(100% - 200px)">
+</style><picture><img class=height="200" src="/logos/doodles/2021
+</picture></div></div>
+
+Find a selector for the Google logo
+-div class = 03j99
+<div class="k1zIA kKvsb"><style data-iml="1640909393609">
+
+Amazon
+
+Find a select0r for the login button
+head: spn feature
+
+Find a selector for the search bar
+body class = am us
+
+Enter Wanted
+Go to the Enter Wanted app
+
+Find a selector for each of the input fields on the site
+#visual-portal-wrapper
+<body id = class="template-search portaltype
+          &quot;ModificationDate&quot;,
+          &quot;EffectiveDate&quot;,
+          &quot;review_state&quot;,
+          &quot;Subject&quot;
+        ],
